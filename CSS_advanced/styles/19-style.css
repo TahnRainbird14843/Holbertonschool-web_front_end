@@ -539,3 +539,9 @@ ul.row {
 .footer ul {
     text-align: right;
 }
+
+.row::after {
+    content: none;
+    display: table;
+    float: none;
+}
