@@ -53,13 +53,11 @@ a:visited {
 a:hover {
     color: var(--color-black);
     text-decoration: underline;
-    font-style: normal;
 }
 
 a:active {
     color: var(--color-light-grey);
     text-decoration: none;
-    font-style: normal;
 }
 
 .visually-hidden {
