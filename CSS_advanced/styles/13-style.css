@@ -46,7 +46,6 @@ a:link {
 
 a:visited {
     color: var(--color-black);
-    text-decoration: none;
     font-style: italic;
 }
 
@@ -57,7 +56,6 @@ a:hover {
 
 a:active {
     color: var(--color-light-grey);
-    text-decoration: none;
 }
 
 .visually-hidden {
