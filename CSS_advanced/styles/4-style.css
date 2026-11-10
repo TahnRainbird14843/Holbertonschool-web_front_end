@@ -36,6 +36,8 @@ a {
     color: var(--color-primary);
 }
 
-:heading() {
+/* set all headings to have title font */
+
+:heading {
     font-family: var(--font-family-title);
 }
