@@ -1,6 +1,5 @@
-/*
-This add base color variables to root
-*/
+/* This add base color variables to root */
+
 :root {
     --color-primary: #d73953;
     --color-black: #090909;
